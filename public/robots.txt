@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /checkout/*
+Sitemap: https://loja-shopify.retailhub.digital/sitemap/index.xml
+Host: https://loja-shopify.retailhub.digital
